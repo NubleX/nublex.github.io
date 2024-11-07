@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./files).
+[Link to another page](localhost/files).
 
 There should be whitespace between paragraphs.
 
