@@ -2,7 +2,6 @@
 layout: default
 ---
 
-Link 
 
 [Link to the presentaion and other files](localhost/files).
 
@@ -33,6 +32,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
+
 
 ### Definition lists can be used with HTML syntax.
 
